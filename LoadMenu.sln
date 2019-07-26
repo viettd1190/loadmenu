@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadMenu", "DXApplication1\LoadMenu\LoadMenu.csproj", "{6EF71BC8-E5BD-4EE3-8B6A-52340D5B0A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF71BC8-E5BD-4EE3-8B6A-52340D5B0A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF71BC8-E5BD-4EE3-8B6A-52340D5B0A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF71BC8-E5BD-4EE3-8B6A-52340D5B0A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF71BC8-E5BD-4EE3-8B6A-52340D5B0A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1A78FA-94DD-41BB-8C39-564BBBF9D0C7}
+	EndGlobalSection
+EndGlobal
